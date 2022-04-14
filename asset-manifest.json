@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Discord-UI/static/css/main.073c9b0a.css",
-    "main.js": "/Discord-UI/static/js/main.586542a0.js",
+    "main.css": "/Discord-UI/static/css/main.e72f59d4.css",
+    "main.js": "/Discord-UI/static/js/main.0c84df1e.js",
     "static/js/787.5a2b7110.chunk.js": "/Discord-UI/static/js/787.5a2b7110.chunk.js",
-    "static/media/logo.svg": "/Discord-UI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Discord-UI/index.html",
-    "main.073c9b0a.css.map": "/Discord-UI/static/css/main.073c9b0a.css.map",
-    "main.586542a0.js.map": "/Discord-UI/static/js/main.586542a0.js.map",
+    "main.e72f59d4.css.map": "/Discord-UI/static/css/main.e72f59d4.css.map",
+    "main.0c84df1e.js.map": "/Discord-UI/static/js/main.0c84df1e.js.map",
     "787.5a2b7110.chunk.js.map": "/Discord-UI/static/js/787.5a2b7110.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.586542a0.js"
+    "static/css/main.e72f59d4.css",
+    "static/js/main.0c84df1e.js"
   ]
 }
