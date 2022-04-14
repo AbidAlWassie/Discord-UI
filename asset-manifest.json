@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Discord-UI/static/css/main.e72f59d4.css",
-    "main.js": "/Discord-UI/static/js/main.0c84df1e.js",
+    "main.css": "/Discord-UI/static/css/main.c1f5d5e2.css",
+    "main.js": "/Discord-UI/static/js/main.112edc18.js",
     "static/js/787.5a2b7110.chunk.js": "/Discord-UI/static/js/787.5a2b7110.chunk.js",
     "index.html": "/Discord-UI/index.html",
-    "main.e72f59d4.css.map": "/Discord-UI/static/css/main.e72f59d4.css.map",
-    "main.0c84df1e.js.map": "/Discord-UI/static/js/main.0c84df1e.js.map",
+    "main.c1f5d5e2.css.map": "/Discord-UI/static/css/main.c1f5d5e2.css.map",
+    "main.112edc18.js.map": "/Discord-UI/static/js/main.112edc18.js.map",
     "787.5a2b7110.chunk.js.map": "/Discord-UI/static/js/787.5a2b7110.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e72f59d4.css",
-    "static/js/main.0c84df1e.js"
+    "static/css/main.c1f5d5e2.css",
+    "static/js/main.112edc18.js"
   ]
 }
